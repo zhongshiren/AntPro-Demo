@@ -220,7 +220,7 @@ export default {
 .el-icon-loading{color:#000;}
   header ul{margin-left: 200px}
   .el-submenu{ width:200px;}
-  .fr{float:right;}
+  .fr{float:right !important;}
    section main{min-height: 460px}
   .Th1Css{min-width: 200px;width:200px; line-height: 30px;float: left}
   .Th1Css h1{color:#fff;}
